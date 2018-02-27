@@ -7,11 +7,14 @@ using System.Web.Http;
 
 using SC.BL;
 using SC.BL.Domain;
+using SC.DAL.EF;
+
 namespace SC.UI.Web.MVC.Controllers.Api
 {
     public class TicketController : ApiController
     {
-        private ITicketManager mgr = new TicketManager();
+        private static TicketRepository repository = new TicketRepository();
+        private ITicketManager mgr = new TicketManager(repository);
 
         [HttpPut]
         [Route("api/Ticket/{id}/State/Closed")]

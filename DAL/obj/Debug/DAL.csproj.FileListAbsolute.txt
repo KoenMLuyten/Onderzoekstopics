@@ -24,3 +24,29 @@ C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\DAL\b
 C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\DAL\obj\Debug\SC.DAL.dll
 C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\DAL\obj\Debug\SC.DAL.pdb
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\SC.DAL.dll.config
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\SC.DAL.dll
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\SC.DAL.pdb
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\SC.BL.Domain.dll
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\xunit.abstractions.dll
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\xunit.assert.dll
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\xunit.core.dll
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\xunit.execution.dotnet.dll
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\SC.BL.Domain.pdb
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\xunit.abstractions.xml
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\xunit.assert.xml
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\xunit.core.xml
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\bin\Debug\xunit.execution.dotnet.xml
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\obj\Debug\SC.DAL.dll
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\DAL\obj\Debug\SC.DAL.pdb

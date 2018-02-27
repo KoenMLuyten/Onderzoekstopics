@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 using SC.BL;
 using SC.BL.Domain;
+using SC.DAL.EF;
 using SC.UI.CA.ExtensionMethods;
 
 namespace SC.UI.CA
@@ -13,7 +14,8 @@ namespace SC.UI.CA
   class Program
   {
     private static bool quit = false;
-    private static readonly ITicketManager mgr = new TicketManager();
+        private static TicketRepository repo = new TicketRepository();
+    private static readonly ITicketManager mgr = new TicketManager(repo);
     private static readonly Service srv = new Service();
 
     static void Main(string[] args)

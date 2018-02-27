@@ -7,12 +7,14 @@ using System.Web.Http;
 
 using SC.BL;
 using SC.BL.Domain;
+using SC.DAL.EF;
 using SC.UI.Web.MVC.Models;
 namespace SC.UI.Web.MVC.Controllers.Api
 {
     public class TicketResponseController : ApiController
     {
-        private ITicketManager mgr = new TicketManager();
+        private static TicketRepository repo = new TicketRepository();
+        private ITicketManager mgr = new TicketManager(repo);
 
         public IHttpActionResult Get(int ticketNumber)
         {
