@@ -48,8 +48,6 @@ C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-
 C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\obj\Debug\UI-MVC.csprojResolveAssemblyReference.cache
 C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\obj\Debug\SC.UI.Web.MVC.dll
 C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\obj\Debug\SC.UI.Web.MVC.pdb
-C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-MVC\obj\Debug\UI-MVC.csprojResolveAssemblyReference.cache
-C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-MVC\obj\Debug\UI-MVC.csproj.CoreCompileInputs.cache
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-MVC\bin\roslyn\csc.exe
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -116,5 +114,7 @@ C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-MVC\bin\Newtonsoft.Json.xml
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-MVC\bin\EntityFramework.xml
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-MVC\obj\Debug\UI-MVC.csprojResolveAssemblyReference.cache
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-MVC\obj\Debug\UI-MVC.csproj.CoreCompileInputs.cache
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-MVC\obj\Debug\SC.UI.Web.MVC.dll
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-MVC\obj\Debug\SC.UI.Web.MVC.pdb

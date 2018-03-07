@@ -38,8 +38,6 @@ C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\UI-CA
 C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\UI-CA\obj\Debug\UI-CA.csprojResolveAssemblyReference.cache
 C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\UI-CA\obj\Debug\SC.UI.CA.exe
 C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\UI-CA\obj\Debug\SC.UI.CA.pdb
-C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-CA\obj\Debug\UI-CA.csprojResolveAssemblyReference.cache
-C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-CA\obj\Debug\UI-CA.csproj.CoreCompileInputs.cache
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-CA\bin\Debug\SC.UI.CA.exe.config
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-CA\bin\Debug\SC.UI.CA.exe
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-CA\bin\Debug\SC.UI.CA.pdb
@@ -69,5 +67,7 @@ C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-CA\bin\Debug\xunit.execution.dotnet.xml
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-CA\bin\Debug\EntityFramework.xml
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-CA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-CA\obj\Debug\UI-CA.csprojResolveAssemblyReference.cache
+C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-CA\obj\Debug\UI-CA.csproj.CoreCompileInputs.cache
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-CA\obj\Debug\SC.UI.CA.exe
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-CA\obj\Debug\SC.UI.CA.pdb

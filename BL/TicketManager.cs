@@ -54,7 +54,7 @@ namespace SC.BL
       return this.AddTicket(t);
     }
 
-    private Ticket AddTicket(Ticket ticket)
+    public Ticket AddTicket(Ticket ticket)
     {
       this.Validate(ticket);
       return repo.CreateTicket(ticket);
