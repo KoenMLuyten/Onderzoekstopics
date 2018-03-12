@@ -74,5 +74,25 @@ namespace BLTest
     //Ticket ticket = sut.AddTicket(accountid, question);
     Assert.ThrowsException<ValidationException>(() => sut.Validate(ticket2));
     }
+    [TestMethod] //gebruikt reflection om de methode te benaderen
+    public void Validatetestprivate()
+    {
+      //PrivateObject privatehelper = new PrivateObject(typeof(TicketManager));
+      Ticket ticket = new Ticket
+      {
+        AccountId = 2,
+        Text = "Ik heb een probleem",
+        DateOpened = DateTime.Now
+      };
+      try
+      {
+        //privatehelper.Invoke("Validate", ticket); zorgen voor morgen
+        sut.Validate(ticket); 
+      }
+      catch
+      {
+        Assert.Fail("Validation Failed");
+      }
+    }
 }
 }
