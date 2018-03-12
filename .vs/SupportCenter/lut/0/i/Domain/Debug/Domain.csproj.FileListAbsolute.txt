@@ -1,0 +1,7 @@
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\b\Domain\bin\Debug\SC.BL.Domain.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\b\Domain\bin\Debug\SC.BL.Domain.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\i\Domain\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\i\Domain\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\i\Domain\Debug\SC.BL.Domain.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\i\Domain\Debug\SC.BL.Domain.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\i\Domain\Debug\Domain.csproj.CopyComplete

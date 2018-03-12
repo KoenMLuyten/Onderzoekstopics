@@ -1,0 +1,10 @@
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\b\BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\b\BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\b\BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\b\BLTest\bin\Debug\BLTest.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\b\BLTest\bin\Debug\BLTest.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\i\BLTest\Debug\BLTest.csprojResolveAssemblyReference.cache
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\i\BLTest\Debug\BLTest.csproj.CoreCompileInputs.cache
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\i\BLTest\Debug\BLTest.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\i\BLTest\Debug\BLTest.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\i\BLTest\Debug\BLTest.csproj.CopyComplete

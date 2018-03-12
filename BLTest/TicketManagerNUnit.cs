@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.ComponentModel.DataAnnotations;
 using NUnit.Framework;
 using Moq;
 using SC.DAL;
@@ -70,6 +70,32 @@ namespace BLTest
             mockRepo.Verify(repo => repo.ReadTickets(), Times.Exactly(1));
             Assert.AreEqual(5, resultList.Count());
         }
+
+        [TestCase(1, "opgelost", false, "01-01-2018 12:15:12", false)]
+        [TestCase(1, null, false, "01-01-2018 12:15:12", true)]
+        [TestCase(1, "opgelost", false, "01-01-2017 12:15:12", true)]
+    public void ValidateTicketResponseTest(int id, string text, bool isclient, string date, bool useticket)
+    {
+      //Arange
+      TicketResponse ticketResponse = new TicketResponse();
+      Ticket ticket = new Ticket();
+      //act
+      ticketResponse.Id = id;
+      ticketResponse.Text = text;
+      ticketResponse.IsClientResponse = isclient;
+      DateTime myDateTime = DateTime.Parse(date);
+      ticketResponse.Date = myDateTime;
+      if (useticket)
+      {
+        ticket.AccountId = 1;
+        ticket.Text = "Een probleem";
+        ticket.DateOpened = DateTime.Today;
+        ticket.State = TicketState.Answered;
+        ticketResponse.Ticket = ticket;
+      }
+      //Assert
+      Assert.Catch<ValidationException>(() => sut.Validate(ticketResponse));
+    }
 
         [Test]
         public void GetTicketTest()

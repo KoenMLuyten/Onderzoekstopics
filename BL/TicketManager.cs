@@ -122,7 +122,7 @@ namespace SC.BL
       repo.UpdateTicketStateToClosed(ticketNumber);
     }
 
-    private void Validate(Ticket ticket)
+    public void Validate(Ticket ticket) //tijdelijk public gemaakt
     {
       //Validator.ValidateObject(ticket, new ValidationContext(ticket), validateAllProperties: true);
 
@@ -133,7 +133,7 @@ namespace SC.BL
         throw new ValidationException("Ticket not valid!");
     }
 
-    private void Validate(TicketResponse response)
+    public void Validate(TicketResponse response) //tijdelijk public gemaakt
     {
       //Validator.ValidateObject(response, new ValidationContext(response), validateAllProperties: true);
 

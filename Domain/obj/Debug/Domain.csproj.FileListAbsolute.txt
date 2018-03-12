@@ -31,3 +31,23 @@ C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\Dom
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\Domain\obj\Debug\SC.BL.Domain.dll
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\Domain\obj\Debug\SC.BL.Domain.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\bin\Debug\SC.BL.Domain.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\bin\Debug\SC.BL.Domain.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\bin\Debug\xunit.abstractions.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\bin\Debug\xunit.assert.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\bin\Debug\xunit.core.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\bin\Debug\xunit.execution.dotnet.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\bin\Debug\xunit.abstractions.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\bin\Debug\xunit.assert.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\bin\Debug\xunit.core.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\bin\Debug\xunit.execution.dotnet.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\obj\Debug\SC.BL.Domain.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\Domain\obj\Debug\SC.BL.Domain.pdb

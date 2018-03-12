@@ -30,3 +30,36 @@ C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\Tes
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\TestTutorial\obj\Debug\TestTutorial.csproj.CoreCompileInputs.cache
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\TestTutorial\obj\Debug\TestTutorial.dll
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\TestTutorial\obj\Debug\TestTutorial.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\xunit.abstractions.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\nunit.engine.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\nunit.engine.api.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\Mono.Cecil.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\TestTutorial.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\TestTutorial.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\nunit.framework.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\xunit.assert.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\xunit.core.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\xunit.execution.desktop.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\nunit.framework.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\xunit.assert.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\xunit.core.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\bin\Debug\xunit.execution.desktop.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\obj\Debug\TestTutorial.csprojResolveAssemblyReference.cache
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\obj\Debug\TestTutorial.csproj.CoreCompileInputs.cache
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\obj\Debug\TestTutorial.csproj.CopyComplete
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\obj\Debug\TestTutorial.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\TestTutorial\obj\Debug\TestTutorial.pdb
