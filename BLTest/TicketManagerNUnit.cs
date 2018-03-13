@@ -18,6 +18,7 @@ namespace BLTest
         Mock<ITicketRepository> mockRepo = new Mock<ITicketRepository>();
         TicketManager sut;
 
+        //Eenmalige setup van de mocking service
         [OneTimeSetUp]
         public void MockSetup()
         {
@@ -102,7 +103,6 @@ namespace BLTest
                 Assert.AreEqual(ticketnumber, res.Ticket.TicketNumber);
             }
         }
-
 
         //Create Action Tests
         [Test]

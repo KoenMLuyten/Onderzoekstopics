@@ -6,14 +6,19 @@ using System.Web.Mvc;
 
 using SC.BL;
 using SC.BL.Domain;
-using SC.DAL.EF;
+using SC.DAL;
 using SC.UI.Web.MVC.Models;
 namespace SC.UI.Web.MVC.Controllers
 {
     public class TicketController : Controller
     {
-        private static TicketRepository repo = new TicketRepository();
-        private ITicketManager mgr = new TicketManager(repo);
+        
+        private readonly ITicketManager mgr;
+
+        public TicketController(ITicketManager mgr)
+        {
+            this.mgr = mgr;
+        }
 
         // GET: Ticket
         public ActionResult Index()
