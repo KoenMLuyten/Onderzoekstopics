@@ -40,7 +40,7 @@ namespace BLTest
 
       Ticket returnedTicket = sut.AddTicket(accountid, question);
 
-      mockRepo.Verify(repo => repo.CreateTicket(newTicket), Times.Exactly(1));
+      mockRepo.Verify(repo => repo.CreateTicket(It.Is<Ticket>(t => t.Text == question && t.AccountId == accountid)), Times.Exactly(1));
       Assert.AreEqual(accountid, returnedTicket.AccountId);
       Assert.AreEqual(question, returnedTicket.Text);
 
@@ -77,7 +77,7 @@ namespace BLTest
     [TestMethod] //gebruikt reflection om de methode te benaderen
     public void Validatetestprivate()
     {
-      //PrivateObject privatehelper = new PrivateObject(typeof(TicketManager));
+      PrivateObject privatehelper = new PrivateObject(typeof(TicketManager));
       Ticket ticket = new Ticket
       {
         AccountId = 2,
@@ -86,8 +86,8 @@ namespace BLTest
       };
       try
       {
-        //privatehelper.Invoke("Validate", ticket); zorgen voor morgen
-        sut.Validate(ticket); 
+        privatehelper.Invoke("Validate", ticket);
+        //sut.Validate(ticket); 
       }
       catch
       {
