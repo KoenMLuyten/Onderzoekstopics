@@ -77,7 +77,9 @@ namespace BLTest
     [TestMethod] //gebruikt reflection om de methode te benaderen
     public void Validatetestprivate()
     {
-      PrivateObject privatehelper = new PrivateObject(typeof(TicketManager));
+      ITicketRepository testRepo = mockRepo.Object;
+      PrivateObject privatehelper = new PrivateObject(typeof(TicketManager), 
+        new[] {typeof(ITicketRepository)}, new[] {testRepo});
       Ticket ticket = new Ticket
       {
         AccountId = 2,
@@ -87,7 +89,6 @@ namespace BLTest
       try
       {
         privatehelper.Invoke("Validate", ticket);
-        //sut.Validate(ticket); 
       }
       catch
       {
