@@ -32,3 +32,38 @@ C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\BLT
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\BLTest\obj\Debug\BLTest.csproj.CoreCompileInputs.cache
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\BLTest\obj\Debug\BLTest.dll
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\BLTest\obj\Debug\BLTest.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\BLTest.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\BLTest.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\Castle.Core.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\Moq.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\nunit.framework.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\SC.BL.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\SC.BL.Domain.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\SC.DAL.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\System.ValueTuple.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\EntityFramework.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\SC.BL.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\SC.DAL.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\SC.DAL.dll.config
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\SC.BL.Domain.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\Castle.Core.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\Moq.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\Moq.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\nunit.framework.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\EntityFramework.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\obj\Debug\BLTest.csprojResolveAssemblyReference.cache
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\obj\Debug\BLTest.csproj.CoreCompileInputs.cache
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\obj\Debug\BLTest.csproj.CopyComplete
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\obj\Debug\BLTest.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\BLTest\obj\Debug\BLTest.pdb

@@ -71,3 +71,37 @@ C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-CA\obj\Debug\UI-CA.csproj.CoreCompileInputs.cache
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-CA\obj\Debug\SC.UI.CA.exe
 C:\Users\Koen Luyten\Downloads\Eg_SupportCenter - OPLOSSING\Eg_SupportCenter\UI-CA\obj\Debug\SC.UI.CA.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\SC.UI.CA.exe.config
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\SC.UI.CA.exe
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\SC.UI.CA.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\SC.BL.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\SC.BL.Domain.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\SC.DAL.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\xunit.abstractions.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\xunit.assert.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\xunit.core.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\xunit.execution.dotnet.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\EntityFramework.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\SC.BL.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\SC.DAL.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\SC.DAL.dll.config
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\SC.BL.Domain.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\xunit.abstractions.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\xunit.assert.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\xunit.core.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\xunit.execution.dotnet.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\EntityFramework.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\obj\Debug\UI-CA.csprojResolveAssemblyReference.cache
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\obj\Debug\UI-CA.csproj.CoreCompileInputs.cache
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\obj\Debug\UI-CA.csproj.CopyComplete
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\obj\Debug\SC.UI.CA.exe
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\UI-CA\obj\Debug\SC.UI.CA.pdb

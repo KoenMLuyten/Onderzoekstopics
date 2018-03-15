@@ -1,0 +1,7 @@
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\b\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\b\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\b\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\i\ReflectionTut\Debug\ReflectionTut.csproj.CoreCompileInputs.cache
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\i\ReflectionTut\Debug\ReflectionTut.csproj.CopyComplete
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\i\ReflectionTut\Debug\ConsoleApp1.exe
+C:\Users\quint\Desktop\Software\onderzoekstopics\Onderzoekstopics1\.vs\SupportCenter\lut\0\i\ReflectionTut\Debug\ConsoleApp1.pdb
