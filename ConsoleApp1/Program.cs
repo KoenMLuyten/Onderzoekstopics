@@ -11,11 +11,12 @@ namespace ConsoleApp1
   {
     static void Main(string[] args)
     {
+      //basis reflection
       double i = 56.6;
       System.Type type = i.GetType();
       Console.WriteLine("i is een " + type);
 
-
+      //vraagt alle methodes op
       Type myTicketManager = (typeof(TicketManager));
       MethodInfo[] methodInfos = myTicketManager.GetMethods();
       for (int j = 0; j < methodInfos.Length; j++)
@@ -24,6 +25,7 @@ namespace ConsoleApp1
         Console.WriteLine(huidigeMethode.Name + " \t\treturnt:  " + huidigeMethode.ReturnParameter);
       }
 
+      //vraagt de constructor op
       Console.WriteLine("****************************");
       Type myTicketManagerCon = (typeof(TicketManager));
       ConstructorInfo[] Consinfo = myTicketManagerCon.GetConstructors();
@@ -32,6 +34,8 @@ namespace ConsoleApp1
         ConstructorInfo huidigeCon = Consinfo[j];
         Console.WriteLine(huidigeCon.Name);
       }
+
+
       //verder uitgewerkt in onderstaande code
       /*
       Console.WriteLine("****************************");
@@ -42,6 +46,7 @@ namespace ConsoleApp1
         Console.WriteLine(TickInf.Name);
       }*/
 
+      // vraagt alle attributen en hun getters & setters op
       Console.WriteLine("****************************");
       Type TickType = typeof(Ticket);
       PropertyInfo[] TickProps = TickType.GetProperties();
@@ -56,12 +61,16 @@ namespace ConsoleApp1
         Console.WriteLine();
       }
 
+      //maakt ticket "honderd" aan en zet accountID op 100
       Ticket honderd = new Ticket();
       Type honderdType = honderd.GetType();
       PropertyInfo prInfo = honderdType.GetProperty("AccountId");
       Console.WriteLine("Huidige waarde: " + prInfo.GetValue(honderd, null));
       prInfo.SetValue(honderd, 100, null);
       Console.WriteLine("Huidige waarde: " + prInfo.GetValue(honderd, null));
+
+
+
 
       Console.ReadKey();
     }
