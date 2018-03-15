@@ -23,8 +23,11 @@ namespace BLTest
         public void MockSetup()
         {
             //Create operations simply return te given object
-            mockRepo.Setup(repo => repo.CreateTicket(It.IsAny<Ticket>())).Returns(((Ticket t) => t));
-            mockRepo.Setup(repo => repo.CreateTicketResponse(It.IsAny<TicketResponse>())).Returns((TicketResponse t) => t);
+            mockRepo.Setup(repo => repo.CreateTicket(It.IsAny<Ticket>()))
+                    .Returns((Ticket t) => t);
+
+            mockRepo.Setup(repo => repo.CreateTicketResponse(It.IsAny<TicketResponse>()))
+                    .Returns((TicketResponse t) => t);
 
             //List read operations return a list counting five of the requested object
             //Ticketresponses include a Ticket with the requeste TicketID
@@ -37,8 +40,11 @@ namespace BLTest
                 tr.Ticket = testTicket;
                 testResponses.Add(tr);
             }
-            mockRepo.Setup(repo => repo.ReadTicketResponsesOfTicket(It.Is<int>(i => i != 0))).Callback((int i) => testResponses.ForEach(tr => tr.Ticket.TicketNumber = i)).Returns(testResponses);
-            mockRepo.Setup(repo => repo.ReadTicketResponsesOfTicket(It.Is<int>(i => i == 0))).Returns((new List<TicketResponse>()));
+            mockRepo.Setup(repo => repo.ReadTicketResponsesOfTicket(It.Is<int>(i => i != 0)))
+                                        .Callback((int i) => testResponses.ForEach(tr => tr.Ticket.TicketNumber = i))
+                                        .Returns(testResponses);
+            mockRepo.Setup(repo => repo.ReadTicketResponsesOfTicket(It.Is<int>(i => i == 0)))
+                                        .Returns((new List<TicketResponse>()));
 
 
             List<Ticket> testTickets = new List<Ticket>();

@@ -4,24 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 using SC.BL;
 using SC.BL.Domain;
+using SC.DAL;
 using SC.DAL.EF;
 using SC.UI.CA.ExtensionMethods;
+using Unity;
 
 namespace SC.UI.CA
 {
   class Program
   {
     private static bool quit = false;
-        private static TicketRepository repo = new TicketRepository();
-    private static readonly ITicketManager mgr = new TicketManager(repo);
-    private static readonly Service srv = new Service();
+    private static TicketManager mgr;
+    private static Service srv = new Service();
 
     static void Main(string[] args)
     {
-      while (!quit)
+            var container = new UnityContainer();
+            container.RegisterType<ITicketRepository, TicketRepository>();
+            mgr = container.Resolve<TicketManager>();
+            while (!quit)
+      {
         ShowMenu();
+      }
     }
 
     private static void ShowMenu()
@@ -89,9 +96,9 @@ namespace SC.UI.CA
       Console.Write("Ticketnummer: ");
       int input = Int32.Parse(Console.ReadLine());
 
-      //mgr.ChangeTicketStateToClosed(input);
-      // via WebAPI-service
-      srv.ChangeTicketStateToClosed(input);
+      mgr.ChangeTicketStateToClosed(input);
+      //via WebAPI-service
+      //srv.ChangeTicketStateToClosed(input);
     }
 
     private static void PrintAllTickets()
